@@ -21,7 +21,7 @@ async def lifespan(app: FastAPI):
         logger.info("Email Agent 初始化成功！")
     except Exception as e:
         logger.error(f"Email Agent 初始化失败: {e}", exc_info=True)
-        raise e  # 抛出异常让 FastAPI 知道启动失败了
+        raise e  # 抛出异常让 FastAPI 知道启动失败了!
     yield
 
     # --- 关闭阶段 ---
