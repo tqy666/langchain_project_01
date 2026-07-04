@@ -1,0 +1,24 @@
+#qwen
+DASHSCOPE_API_KEY=
+#deepseek
+DEEPSEEK_API_KEY=
+#LangSmith
+LANGSMITH_TRACING=true
+LANGSMITH_API_KEY=
+# project name
+LANGSMITH_PROJECT=lc-course
+#Pinecon
+PINECONE_API_KEY=
+#Tavily
+TAVILY_API_KEY=
+#alioss
+OSS_ACCESS_KEY_ID=
+OSS_ACCESS_KEY_SECRET=
+OSS_BUCKET=
+#mineru
+MINERU_TOKEN=
+#HF_TOKEN
+HF_TOKEN=
+#QQ_EMAIL(user,your_16_digit_auth_code)
+QQ_EMAIL=
+QQ_PASSWORD=
